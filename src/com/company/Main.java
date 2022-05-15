@@ -8,6 +8,8 @@ public class Main {
     car.Color="red";
     car.engineCapac="V8";
     car.doors="4";
+        System.out.println(" welcome");
+        System.out.println("radio");
 
 }
 }
